@@ -13,7 +13,7 @@
 
 - 👨‍💻 Visit my website at [https://snehpatel.co.uk](https://snehpatel.co.uk)
 
-- 💬 Ask me about **Web Development, Python, SQl, DBMS, Data Visualization and Software Development**
+- 💬 Ask me about **Web Development, Python, SQL, DBMS, Data Visualization and Software Development**
 
 - 📫 How to reach me **devsneh13@gmail.com**
 
