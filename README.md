@@ -73,7 +73,7 @@ Development & DevSecOps
   <a href="https://linkedin.com/in/sneh-patel-55435a20b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://snehpatel.co.uk" target="_blank">
+  <a href="https://sneh1309.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:snehpatel2000@gmail.com" target="_blank">
