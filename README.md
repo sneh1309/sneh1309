@@ -13,7 +13,7 @@ I'm a cybersecurity professional specializing in security operations, threat man
 🔧 Key Technologies: Datto RMM, CrowdStrike, Microsoft Defender XDR, Microsoft Sentinel
 🎓 Learning Focus: Kusto Query Language (KQL), Threat Detection & Response, Security Automation
 🌐 Portfolio: snehpatel.co.uk
-📧 Contact: devsneh13@gmail.com
+📧 Contact: snehpatel2000@gmail.com
 
 🎯 Current Projects & Focus Areas
 
